@@ -22,7 +22,7 @@
 만드는 과정 및 결과
 + 고양이, 햄스터, 강아지, 병아리의 사진을 모은다.
 + 티쳐블 머신에 학습시킨다.
-+ [Teachable Machine]()
++ [Teachable Machine](https://teachablemachine.withgoogle.com/models/RWayo6VFT/)
 
 깃허브 IT아카데미 5월 20일 자 보고서를 적어보겠습니다.
 -------------
