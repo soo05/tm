@@ -44,7 +44,7 @@
  
  >사용 예시 사진
  ![고양이](https://ww.namu.la/s/0826fcb62ab5ffd031695083aa629d99351834b91417a1c9fee4a2a1a4b64bd8287e88163820b02176526fe7006fb51438fbb6f42cb2438497e298e722eac77cf56a97ef1e5e3530f874f155e6de24d6fb99d3e4d547eab1f0686e6c9739e75c9598ad5c905e2a5474760cf69680ca79)
- ![깃허브 사용](C:\Users\user\Desktop)
+ ![깃허브 사용](https://blogfiles.pstatic.net/MjAyMTA1MzFfMTg2/MDAxNjIyNDU1MTg5MzQz.Ugg54V-SxUrPKdOdVCGLdMNJbPjewFIy3JDxIoeCCqUg.S6Z_JtWXr3aasGgunW5IWc-h4MOha9vdqaSHarukFVsg.PNG.kongsooin0411/%EC%BA%A1%EC%B2%98.PNG)
 
 깃허브 IT아카데미 5월 20일 자 보고서를 적어보겠습니다.
 -------------
