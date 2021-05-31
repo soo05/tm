@@ -20,7 +20,7 @@
 |download all image 활용 | 100개 |
 
 만드는 과정 및 결과
-+ 고양이, 햄스터, 강아지, 병아리의 사진을 모은다.
++ 고양이, 햄스터, 강아지, 여우의 사진을 모은다.
 + 티쳐블 머신에 학습시킨다.
 + [Teachable Machine](https://teachablemachine.withgoogle.com/models/RWayo6VFT/)
 
