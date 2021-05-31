@@ -49,6 +49,10 @@
  >> ![깃허브 사용](https://blogfiles.pstatic.net/MjAyMTA1MzFfMTg2/MDAxNjIyNDU1MTg5MzQz.Ugg54V-SxUrPKdOdVCGLdMNJbPjewFIy3JDxIoeCCqUg.S6Z_JtWXr3aasGgunW5IWc-h4MOha9vdqaSHarukFVsg.PNG.kongsooin0411/%EC%BA%A1%EC%B2%98.PNG)
  >> ![깃허브 사용2](https://blogfiles.pstatic.net/MjAyMTA1MzFfMTYy/MDAxNjIyNDU1NzQ3OTg3.0jjrPQkgDRN3H1OP2WD4LFgLSivXC0pPkz3S7se1RIkg._lyUM0sg0KFIXf2sBfjkxP2bdL9NiI5FB2LCQ990yYYg.PNG.kongsooin0411/%EC%BA%A1%EC%B2%982.PNG)
  
+ ---
+ 실제로는 다를 수도 있으니 그냥 재미로만 해 주었으면 좋겠습니다.
+ 다음에는 다른 동물들도 넣어보고 더 많은 이미지를 학습시켜보고 싶습니다.
+ 
 
 깃허브 IT아카데미 5월 20일 자 보고서를 적어보겠습니다.
 -------------
